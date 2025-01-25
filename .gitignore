@@ -1,0 +1,6 @@
+# It's fun to have a Mac
+.DS_Store
+
+# Quarto
+.quarto/
+_site/
